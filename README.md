@@ -1,4 +1,5 @@
-### Hi I'm Eric Marins a fresh Web Developer :computer:
+<h1  align="center"> 👋 Hi I'm Eric Marins a Fresh Web Developer :computer:
+ <br><br>
 
 <div style="max-width: 400px" >
 <img src="https://data.whicdn.com/images/337477158/original.gif" style="max-width:100%;" />
